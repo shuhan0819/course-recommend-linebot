@@ -1,0 +1,49 @@
+# 環境變數（絕對不能上傳）
+.env
+
+# Python 快取
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# 虛擬環境
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# FAISS 向量資料庫（大型二進位檔，本機建立）
+faiss_index_recommand/
+faiss_index*/
+*.faiss
+*.pkl
+
+# IDE 設定
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS 雜項
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日誌與暫存
+*.log
+logs/
+tmp/
+temp/
+
+# 套件建置產物
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# 測試覆蓋率
+.coverage
+htmlcov/
+.pytest_cache/
