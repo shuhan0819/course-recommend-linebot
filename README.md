@@ -1,4 +1,7 @@
-# 課程推薦 LINE Bot 聊天機器人
+# course-recommend-linebot 
+## 課程推薦 LINE Bot 聊天機器人
+
+---
 
 基於 RAG（檢索增強生成）技術的 LINE Bot，使用者輸入學習目標或職涯方向，機器人自動從課程資料庫中挑選最相關的 3 門課程並說明推薦原因。
 
