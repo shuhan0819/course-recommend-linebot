@@ -1,5 +1,5 @@
 # course-recommend-linebot 
-## 課程推薦 LINE Bot 聊天機器人
+# 課程推薦 LINE Bot 聊天機器人
 
 ---
 
