@@ -1,5 +1,10 @@
-# course-recommend-linebot 
-# 課程推薦 LINE Bot 聊天機器人
+# 課程推薦 LINE Bot
+### RAG-Based Course Recommendation Chatbot for LINE
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-async-green)
+![LINE Bot](https://img.shields.io/badge/Platform-LINE%20Bot-brightgreen)
+![OpenAI](https://img.shields.io/badge/LLM-GPT--4o--mini-orange)
 
 ---
 
